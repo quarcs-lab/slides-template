@@ -1,4 +1,4 @@
-# slide-project20XXx-conferenceName
+# Slides template
 
 ## How to create PDF slides
 
