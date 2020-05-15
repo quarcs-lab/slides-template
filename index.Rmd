@@ -75,8 +75,8 @@ class: middle
 
 2. Convergence framework
 
-  - Global convergengence test (intuition)
-  - Local convergengence clubs (intuition)
+  - Global convergence test (intuition)
+  - Local convergence clubs (intuition)
 
 3. Main results of the paper
 
