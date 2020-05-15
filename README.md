@@ -1,5 +1,10 @@
 # Slides template
 
+## Tutorials
+
+- [http://www.favstats.eu/post/xaringan_tut/](http://www.favstats.eu/post/xaringan_tut/)
+- [https://bookdown.org/yihui/rmarkdown/xaringan.html](https://bookdown.org/yihui/rmarkdown/xaringan.html)
+- [https://github.com/zhiiiyang/XaringanTutorial](https://github.com/zhiiiyang/XaringanTutorial)
 
 ## How to create PDF slides
 
