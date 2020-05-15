@@ -4,5 +4,5 @@
 
 ```
 library(webshot)
-webshot("slide-project20XXx-conferenceName.html", "slide-project20XXx-conferenceName.pdf")
+webshot("index.html", "index.pdf")
 ```
